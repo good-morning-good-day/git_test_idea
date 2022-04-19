@@ -5,6 +5,7 @@ public class helloword {
         System.out.println("hello word!1 master commit2");
         System.out.println("hello word!1 master push test");
          System.out.println("hello word!1 master pull test");
+        System.out.println("hello word!1 gitee push test");
 
     }
 }
